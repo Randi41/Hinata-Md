@@ -6,7 +6,7 @@
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
+    "tiktok": "https://tiktok.com/@rannd_ada10",
     "instagram": "https://instagram.com/riychdwayne",
     "gamewaktu": 90,
     "limitCount": 25,
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "RannDBot-Md",
+        "author": "By Ran"
     }
 }
